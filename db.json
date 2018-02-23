@@ -1,5 +1,5 @@
 {
-"prueba":
+"prueba":[
   {"q":"cuama",
               "p1":"drama",
               "p2":"twerewrwe",
@@ -13,5 +13,5 @@
               "p3":"al multiplicar por un grupo de orden dos se obtiene un grupo simetrico",
               "p4":"contiene n grupos de Sylow"}
 
-
+]
 }
